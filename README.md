@@ -1,5 +1,7 @@
 # Bootstrap Starter Templates for Web GIS
-The examples in this repository are based on [those](https://getbootstrap.com/docs/4.3/examples/) provided in the documentation for [Bootstrap](https://getbootstrap.com/).
+The pages in this repository are based on the [example templates](https://getbootstrap.com/docs/4.3/examples/) provided in the documentation for [Bootstrap](https://getbootstrap.com/).
+
+## Live demos  
 
 [map-fullpage](https://geog4046.github.io/bootstrap-starter/map-fullpage) - Navbar across the top, full-page map below    
 [map-links](https://geog4046.github.io/bootstrap-starter/map-links) - Page with navbar and links to maps on other pages  

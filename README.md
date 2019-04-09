@@ -3,7 +3,7 @@ The pages in this repository are based on the [example templates](https://getboo
 
 ## Live demos  
 
-[map-fullpage](https://geog4046.github.io/bootstrap-starter/map-fullpage) - Navbar across the top, full-page map below    
+[map-fullpage](https://geog4046.github.io/bootstrap-starter/map-fullpage) - Navbar across the top, full-page map below  
 [map-links](https://geog4046.github.io/bootstrap-starter/map-links) - Page with navbar and links to maps on other pages  
 [map-multiple](https://geog4046.github.io/bootstrap-starter/map-multiple) - Multiple maps displayed on the same page  
 [map-page](https://geog4046.github.io/bootstrap-starter/map-page) - Page with a map and other content  

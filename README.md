@@ -4,7 +4,6 @@ The pages in this repository are based on the [example templates for Bootstrap](
 ## Live demos  
 
 [index.html](https://geog4046.github.io/webmap-starter-packs) - Blank starter template  
-  
 [map-fullpage](https://geog4046.github.io/webmap-starter-packs/map-fullpage) - Navbar across the top, full-page map below  
 [map-links](https://geog4046.github.io/webmap-starter-packs/map-links) - Page with navbar and links to maps on other pages  
 [map-multiple](https://geog4046.github.io/webmap-starter-packs/map-multiple) - Multiple maps displayed on the same page  

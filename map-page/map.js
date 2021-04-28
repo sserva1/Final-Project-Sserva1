@@ -1,7 +1,6 @@
 function init () {
   let demoMap = L.map('map').setView([32.18, -99.14], 4)
-  L.tileLayer('https://tile.thunderforest.com/spinal-map/{z}/{x}/{y}.png?apikey=9e58ec91b076457dbf9835a1932e032c', {
-    attribution: 'Thunderforest'
+  L.tileLayer('https://sserva1.github.io/Final-project/', {
   }).addTo(demoMap)
   let city = L.marker([30, -90]).addTo(demoMap)
   let area = L.polygon([

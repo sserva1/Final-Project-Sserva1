@@ -1,11 +1,3 @@
-# Bootstrap Starter Templates for Web GIS
-The pages in this repository are based on the [example templates for Bootstrap](https://getbootstrap.com/docs/4.4/examples/) provided in the documentation for Bootstrap. You can find the most current version at https://getbootstrap.com.
-
-## Live demos  
-
-[index.html](https://geog4046.github.io/webmap-starter-packs) - Blank starter template  
-[map-fullpage](https://geog4046.github.io/webmap-starter-packs/map-fullpage) - Navbar across the top, full-page map below  
-[map-links](https://geog4046.github.io/webmap-starter-packs/map-links) - Page with navbar and links to maps on other pages  
-[map-multiple](https://geog4046.github.io/webmap-starter-packs/map-multiple) - Multiple maps displayed on the same page  
-[map-page](https://geog4046.github.io/webmap-starter-packs/map-page) - Page with a map and other content  
-[map-portfolio](https://geog4046.github.io/webmap-starter-packs/map-portfolio) - The Bootstrap [Album template](https://getbootstrap.com/docs/4.4/examples/album/) customized as a portfolio of web maps  
+# USHJA Zone 7 Show Facility Map
+This webmap shows the locations of all USHJA approved show facilities in the states of Arkansas, Kansas, Louisiana, Missouri, Okalahoma, and Texas. 
+The Hunter/Jumper sport is made up of two disciplines: Hunter and Jumper, also known as Show Jumping. Each year more than 1,000 US Equestrian-rated and countless other local Hunter/Jumper competitions take place across the country. Each show offers competition for riders of varying skill levels, and each offers Hunter, Jumper and Equitation classes. While Hunter and Jumper classes judge the horse, Equitation classes judge the rider.
